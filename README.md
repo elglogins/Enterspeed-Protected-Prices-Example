@@ -21,7 +21,7 @@ Created source named "cms-example"
 		"name": "Coca-Cola",
 		"description": "We are here to refresh the world and make a difference. Learn more about the Coca-Cola Company, our brands, and how we strive to do business the right way.",
 		"sku": "12345678",
-        // TODO: you can include some of non-protected PIM product information too!
+        // NOTE: you can include some of non-protected PIM product information too!
 	}
 }
 ```
